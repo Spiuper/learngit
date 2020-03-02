@@ -1,3 +1,4 @@
-G
+Git is version control system.
 Git is free software.
-Git is a distrubuted version control system.
+I need to change this file
+What a joy to learn git
